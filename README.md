@@ -29,6 +29,7 @@ const nabin = {
   companies: {
     agency : "Digira Agency  →  digiragency.com",
     esports: "Digira Esports →  digira.xyz",
+    product: "Thaal.app      →  Under development",
   },
   building : "Digira — shaping brands, dominating arenas",
   sideForge: "THAAL — Modern SaaS Platform",
