@@ -89,7 +89,7 @@ THAAL:
 &nbsp;
 [![Digira Esports](https://img.shields.io/badge/🎮%20Digira%20Esports-digira.xyz-D4A49A?style=for-the-badge&logoColor=1a0e0c)](https://digira.xyz)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nabinbikram.netlify.app-C49088?style=for-the-badge&logoColor=1a0e0c)](https://nabinbikram.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nabinbikram.netlify.app-C49088?style=for-the-badge&logoColor=1a0e0c)](https://brainofnabin.vercel.app)
 
 </div>
 
